@@ -76,6 +76,7 @@ Takes `string` or `object`.
 Possible values:
 
 - 'initial' - `all: initial`;
+- 'revert' - `all: revert`;
 - 'sizes' - reset size properties.
 
 Use object to create your own reset. CSS-in-JS notation is supported.
